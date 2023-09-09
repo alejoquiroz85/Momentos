@@ -1,3 +1,5 @@
+#Realizado por Alejandro Quiroz y Andres Cano
+
 # Vamos a crear un diccionario con los colores
 
 colores={}
