@@ -27,7 +27,7 @@ while ingreso ==3:
     ingreso= int(input("Desea ingresar, editar o eliminar un color\n1.Ingresar \n2.Editar \n3.Eliminar \n4.Salir \n"))
 while ingreso ==4:
     break
-while ingreso <0 or ingreso >4:
+while ingreso <=0 or ingreso >4:
     print  ("Opción invalida")
     ingreso= int(input("Desea ingresar, editar o eliminar un color\n1.Ingresar \n2.Editar \n3.Eliminar \n4.Salir \n"))
 
